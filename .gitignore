@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+
+# Runtime artifacts (created by the script — never commit these)
+gutenberg_corpus/
+_gutenberg_log.tsv
+_missing.tsv
+GUTINDEX.ALL
