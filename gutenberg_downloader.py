@@ -51,7 +51,7 @@ INDEX_URL = "https://gutenberg.pglaf.org/GUTINDEX.ALL"
 BOOK_URL = "https://gutenberg.pglaf.org/cache/epub/{id}/pg{id}.txt"
 # Polite, identifying User-Agent. Public repo URL only — no personal
 # contact info (no email addresses).
-UA = "Polite Gutenberg Downloader/0.2 (+https://github.com/JohnHenryUS/gutdown)"
+UA = "Polite Gutenberg Downloader/0.2 (+https://github.com/DeJongAgency/gutdown)"
 # NOTE: the log path is resolved at call time inside log() so that
 # --dir / GUTENBERG_DOWNLOAD_DIR overrides take effect.
 
