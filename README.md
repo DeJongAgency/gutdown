@@ -22,7 +22,7 @@ Written for a multi-day archival pull of the whole corpus. It is deliberately ge
 ## Getting the code
 
 ```bash
-git clone https://github.com/JohnHenryUS/gutdown
+git clone https://github.com/DeJongAgency/gutdown
 cd gutdown
 ```
 
